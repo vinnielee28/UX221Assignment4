@@ -1,2 +1,6 @@
 [05-Apr-2025 00:43:59 UTC] PHP Warning:  Undefined array key "host" in /workspaces/UX221Assignment4/.wordpress/wp-includes/pluggable.php on line 1625
 [05-Apr-2025 01:41:08 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221Assignment4/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[05-Apr-2025 02:05:30 UTC] PHP Fatal error:  Out of memory (allocated 37748736) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/ext-comp/index.php on line 36
+[05-Apr-2025 02:06:28 UTC] PHP Fatal error:  Out of memory (allocated 35651584) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/ext-comp/index.php on line 36
+[05-Apr-2025 02:06:30 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/functions/shortcodes.php on line 106
+[05-Apr-2025 02:06:34 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/functions/shortcodes.php on line 90
