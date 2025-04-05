@@ -47,6 +47,31 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/dinosaur-plushie/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/hatch-and-grow-dino/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/dino-fossil-dig-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/dinosaur-figures/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
