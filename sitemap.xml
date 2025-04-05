@@ -2,7 +2,27 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/velociraptor/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/triceratops/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tyrannosaurus/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/brachiosaurus/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/spinosaurus/
         </loc>
     </url>
     <url>
@@ -12,7 +32,17 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
+            http://localhost:8000/about/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/contact/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/posts/
         </loc>
     </url>
     <url>
