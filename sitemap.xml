@@ -42,11 +42,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/posts/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/products/
         </loc>
     </url>
@@ -68,6 +63,11 @@
     <url>
         <loc>
             http://localhost:8000/products/dinosaur-figures/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/dinosaurs-and-other-prehistoric-life/
         </loc>
     </url>
     <url>
